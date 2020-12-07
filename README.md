@@ -1,2 +1,1 @@
-# infoeco
-Information Ecosystems: Interdisciplinary Uses of Digital Methods
+# Information Ecosystems: Interdisciplinary Uses of Digital Methods
