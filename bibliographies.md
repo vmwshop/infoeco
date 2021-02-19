@@ -1,6 +1,7 @@
 # Bibliographies #
 ## Automation & AI
 "Automation May Take Jobs—but AI Will Create Them." Wired. Accessed October 19, 2020. https://www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/.
+
 Benanav, A. (2020). Automation and the Future of Work. New York: Verso Books.
 
 Delfanti, Alessandro. “Machinic Dispossession and Augmented Despotism: Digital Work in an Amazon Warehouse." New Media & Society, December 2, 2019, 1461444819891613. https://doi.org/10.1177/1461444819891613.
